@@ -1,0 +1,3 @@
+/home/ammar/sitl_agcam/gige_cam_framerate/build/CMakeFiles/rebuild_cache.dir
+/home/ammar/sitl_agcam/gige_cam_framerate/build/CMakeFiles/edit_cache.dir
+/home/ammar/sitl_agcam/gige_cam_framerate/build/CMakeFiles/gigeFPS.dir
