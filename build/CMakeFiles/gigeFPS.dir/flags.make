@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/ammar/sitl_agcam/gige_cam_framerate/include -isystem /usr/include/opencv4 
+CXX_INCLUDES = -I/home/ammar/sitl/gige_cam_framerate/include -isystem /usr/include/opencv4 
 

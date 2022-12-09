@@ -17,12 +17,9 @@ set(GIGE_CAM libMVSDK.so)
 
 
 
-# add_executable(fpsCount framerate.cpp)
-# target_link_libraries(fpsCount ${OpenCV_LIBRARIES})
 
-
-# add_executable(newfpsCount newfps.cpp)
-# target_link_libraries(newfpsCount ${OpenCV_LIBRARIES})
 
 add_executable(gigeFPS src/gigeFPS.cpp)
 target_link_libraries(gigeFPS ${GIGE_CAM} ${OpenCV_LIBRARIES})
+
+

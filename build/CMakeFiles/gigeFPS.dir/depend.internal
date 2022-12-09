@@ -5,7 +5,7 @@ CMakeFiles/gigeFPS.dir/src/gigeFPS.cpp.o
  ../include/CameraApi.h
  ../include/CameraDefine.h
  ../include/CameraStatus.h
- /home/ammar/sitl_agcam/gige_cam_framerate/src/gigeFPS.cpp
+ /home/ammar/sitl/gige_cam_framerate/src/gigeFPS.cpp
  /usr/include/opencv4/opencv2/calib3d.hpp
  /usr/include/opencv4/opencv2/core.hpp
  /usr/include/opencv4/opencv2/core/affine.hpp
